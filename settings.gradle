@@ -1,0 +1,6 @@
+include ':zmvp',
+//':app',
+
+        ':fragmentation'
+        //':nfcapp',
+        //':mobileinspection'
